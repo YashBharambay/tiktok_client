@@ -14,9 +14,6 @@ function App() {
           <h1 className='App-title'>
             Welcome to the Tiktok Authentication.
           </h1>
-          <Link className='showlink' to='/'>
-            Home
-          </Link>
         </header>
 
         <div className='App-body'>
