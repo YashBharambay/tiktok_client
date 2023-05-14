@@ -1,5 +1,3 @@
-# CS554 Final Project - Try & Cache
-
 The web application is for users to login using Tiktok Auth
 
 ## Technologies Used
